@@ -1,1 +1,1 @@
-# Fitness-Tracking-App-Analysis
+Case Study : How can a wellness company play it smart?
